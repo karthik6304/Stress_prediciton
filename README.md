@@ -1,5 +1,9 @@
 # Stress_prediciton
- Markup : *this is jupyter note book used for prediciting stress using the heart rate, Electro dermal activity and the temperature of an individual.
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+this is jupyter note book used for prediciting stress using the heart rate, Electro dermal activity and the temperature of an individual.
 
 *refer the file time_logs.xlsx for the time intervals and duration of sessions.
 *change the subjects number which is between the number '01' to '35'.
